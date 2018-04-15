@@ -14,7 +14,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 #
 # Flags below are optional
 #
-remote_theme: "mmistakes/minimal-mistakes"
+theme: jekyll-theme-minimal
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
@@ -76,7 +76,7 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-  - github-pages
+  
 # Exclude these files from your production _site
 exclude:
   - Gemfile
