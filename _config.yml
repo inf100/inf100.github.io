@@ -84,4 +84,4 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: mmistakes/minimal-mistakes
